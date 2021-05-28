@@ -1,0 +1,4 @@
+baseURL = "https://ogunteegsa.github.io/"
+languageCode = "en-us"
+title = "Developing a Dsta Driven Road Map"
+theme = "ananke"
