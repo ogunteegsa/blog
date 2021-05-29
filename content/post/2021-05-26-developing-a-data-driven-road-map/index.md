@@ -43,8 +43,9 @@ Once claims are established, either through the **_manual_** or **_AI_** approac
 Even though we do not currently measure the revolving activities around **_VBMS_**, we believe it is central to claims’ long processing time. To measure these activities, we introduced two new measures for contentions, flashes and special issues. These measures capture the accuracy and agility of data flow into **_VBMS_**. 
 
 The first measure known as the efficiency of a process is defined as:
-
+<p align="center">
 <img src="https://latex.codecogs.com/svg.image?\begin{align*}\eta_i=\frac{number\&space;of&space;i\&space;entered&space;-&space;number&space;of\&space;i\&space;removed}{number\&space;of\&space;i\&space;entered},&space;\qquad&space;{(1)}\end{align*}" title="\begin{align*}\eta_i=\frac{number\ of i\ entered - number of\ i\ removed}{number\ of\ i\ entered}, \qquad {(1)}\end{align*}" />
+</p>
 
 where <img src="https://latex.codecogs.com/svg.image?\inline&space;i&space;" title="\inline i " /> is contentions, flashes or special issues and measures the accuracy of each process. The second measure <img src="https://latex.codecogs.com/svg.image?\inline&space;t_{i}" title="\inline t_{i}" /> captures the agility of the data entry process. Again, <img src="https://latex.codecogs.com/svg.image?\inline&space;i&space;" title="\inline i " /> assumes value of contentions, flashes and special issues depending on the process being described. ti measures the time from initial establishment until the last element of a process is entered or removed from **_VBMS_**.
 
