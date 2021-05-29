@@ -1,4 +1,4 @@
-# _Developing a Data-Driven Road Map_![image](https://user-images.githubusercontent.com/84929934/120056403-7c6dc100-c001-11eb-8b8f-d4a0eb8ccfd3.png)
+# _Developing a Data-Driven Road Map_
 
 #### _Babatunde Oguntade, Paul Shute_
 
@@ -65,7 +65,7 @@ The results of our analysis are presented here using a combination of the mean a
 
 ### Claim Establishment Time
 
-As mentioned earlier, the claims establishment time ![image](https://user-images.githubusercontent.com/84929934/120056419-ab843280-c001-11eb-83ee-732b34820664.png)
+As mentioned earlier, the claims establishment time <img src="https://latex.codecogs.com/svg.image?\inline&space;t_{establishment}&space;" title="\inline t_{establishment} " />
  measures the time between when a claim is received and entered into **_VBMS_**. It is a proxy for the effectiveness of the claim’s intake process. The establishment times measured are:
 
 \begin{align*}
