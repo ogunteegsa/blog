@@ -44,9 +44,7 @@ Even though we do not currently measure the revolving activities around **_VBMS_
 
 The first measure known as the efficiency of a process is defined as:
 
-\begin{align*}
-\eta_i =\frac{number\ of\ i\ entered - number\ of\ i\ removed}{number\ of\ i\ entered},\tag{1} 
-\end{align*}
+https://latex.codecogs.com/png.image?\dpi{110}%20\begin{align*}\eta_i%20=\frac{number\%20of\%20i\%20entered%20-%20number\%20of\%20i\%20removed}{number\%20of\%20i\%20entered},\tag{1}%20\end{align*}
 
 where `$i_{i}$` is contentions, flashes or special issues and measures the accuracy of each process. The second measure `$t_{i}$` captures the agility of the data entry process. Again, `$i_{i}$` assumes Value of contentions, flashes and special issues depending on the process being described. ti measures the time from initial establishment until the last element of a process is entered or removed from **_VBMS_**.
 
