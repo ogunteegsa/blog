@@ -129,19 +129,15 @@ Our analysis revealed that an average of 3 **_VSRs_** work on every claim regard
 
 **_AI_** established claims were also processed at an average of 3 locations as opposed to 2 locations for claims established through the manual method:
 
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{locations,ai}\quad\&space;=&space;3&space;\pm&space;1\&space;days\qquad\qquad{(18)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{locations,ai}\quad\ = 3 \pm 1\ days\qquad\qquad{(18)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{locations,ai}\quad\&space;=&space;3&space;\pm&space;1\&space;\qquad\qquad{(18)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{locations,ai}\quad\ = 3 \pm 1\ \qquad\qquad{(18)} \end{align*}" />
 
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{locations,manual}&space;=&space;2&space;\pm&space;1\&space;days\qquad\qquad&space;{(19)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{locations,manual} = 2 \pm 1\ days\qquad\qquad {(19)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{locations,manual}&space;=&space;2&space;\pm&space;1\&space;\qquad\qquad&space;{(19)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{locations,manual} = 2 \pm 1\ \qquad\qquad {(19)} \end{align*}" />
 
 Finally, **_AI_** established claims contain fewer claimant contentions at submission:
 
-\begin{align*}
-\overline{n}_{contentions,ai}\ = 9 \pm 8\ days\tag{20} 
-\end{align*}
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{contentions,ai}\&space;=&space;9&space;\pm&space;8\&space;\qquad\qquad&space;{(20)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{contentions,ai}\ = 9 \pm 8\ \qquad\qquad {(20)} \end{align*}" />
 
-\begin{align*}
-\overline{n}_{contentions,manual} = 11 \pm 13\ days\tag{21} 
-\end{align*}
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{contentions,manual}&space;=&space;11&space;\pm&space;13\&space;\qquad\qquad&space;{(21)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{contentions,manual} = 11 \pm 13\ \qquad\qquad {(21)} \end{align*}" />
 
 We also estimated the time it took to close a claim once a ratings decision has been reached, `$t_{ratings}$`. No noticeable difference was observed between **_AI_** established claims and claims established through the manual route as shown below:
 
