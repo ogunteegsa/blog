@@ -70,9 +70,7 @@ As mentioned earlier, the claims establishment time <img src="https://latex.code
 
 <img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{t}_{establishment,ai}\quad\&space;=&space;3.59&space;\pm&space;13.40\&space;days\qquad\qquad\&space;{2}&space;\end{align*}" title="\begin{align*} \overline{t}_{establishment,ai}\quad\ = 3.59 \pm 13.40\ days\qquad\qquad\ {2} \end{align*}" />
 
-\begin{align*}
-\overline{t}_{establishment,manual} = 3.77 \pm 12.22\ days\tag{3} 
-\end{align*}
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{t}_{establishment,manual}&space;=&space;3.77&space;\pm&space;12.22\&space;days\qquad\qquad\quad{(3)}&space;\end{align*}" title="\begin{align*} \overline{t}_{establishment,manual} = 3.77 \pm 12.22\ days\qquad\qquad\quad{(3)} \end{align*}" />
 
 Equations 2 and 3 are the establishment times for the **_CAAPIv1.0/BCAPI_** establishment protocol and manual establishment methods, respectively. The two numbers are statistically but not operationally different with our **_AI_** protocol establishing claims five hours sooner than the manual establishment technique in use at VA.
 
