@@ -93,7 +93,7 @@ The contentions efficiencies of both the **_AI_** process (Equation 4) and manua
 <p align="right">
 <img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{flashes,ai}&space;=&space;0.84&space;\pm&space;0.20\qquad{(6)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{flashes,ai}\quad\ = 0.84 \pm 0.20\qquad{(6)} \end{align*}" />
 </p>
-<p align="center">
+<p align="right">
 <img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{flashes,manual}&space;=&space;0.84&space;\pm&space;0.20\qquad{(7)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{flashes,manual} = 0.84 \pm 0.20\qquad{(7)} \end{align*}" />
 </p>
 
