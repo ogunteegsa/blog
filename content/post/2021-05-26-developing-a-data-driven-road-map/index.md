@@ -112,15 +112,11 @@ While the process efficiencies of the AI established claims are slightly better 
 
 ***
 
-\begin{align*}
-\overline{t}_{special \ issues,ai}\quad\ = 59 \pm 67\ days\tag{14} 
-\end{align*}
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{special&space;\&space;issues,ai}\quad\&space;=&space;59&space;\pm&space;67\&space;days\qquad\qquad{(14)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{special \ issues,ai}\quad\ = 59 \pm 67\ days\qquad\qquad{(14)} \end{align*}" />
 
-\begin{align*}
-\overline{t}_{special \ issues,manual} = 53 \pm 66\ days\tag{15} 
-\end{align*}
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{special&space;\&space;issues,manual}&space;=&space;53&space;\pm&space;66\&space;days\qquad\qquad&space;{(15)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{special \ issues,manual} = 53 \pm 66\ days\qquad\qquad {(15)} \end{align*}" />
 
-It took 5 – 7 days longer for AI established claims to be completed in comparison to claims established through the manual method. 
+It took 5 – 7 days longer for **_AI_** established claims to be completed in comparison to claims established through the manual method. 
 
 
 ### Claim Establishment – Other Measures
