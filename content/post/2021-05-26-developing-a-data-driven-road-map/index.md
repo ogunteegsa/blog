@@ -1,4 +1,5 @@
-# Developing a Data-Driven Road Map
+# _Developing a Data-Driven Road Map_![image](https://user-images.githubusercontent.com/84929934/120056403-7c6dc100-c001-11eb-8b8f-d4a0eb8ccfd3.png)
+
 #### _Babatunde Oguntade, Paul Shute_
 
 
@@ -44,7 +45,7 @@ Even though we do not currently measure the revolving activities around **_VBMS_
 
 The first measure known as the efficiency of a process is defined as:
 
-https://latex.codecogs.com/png.image?\dpi{110}%20\begin{align*}\eta_i%20=\frac{number\%20of\%20i\%20entered%20-%20number\%20of\%20i\%20removed}{number\%20of\%20i\%20entered},\tag{1}%20\end{align*}
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}\eta_i=\frac{number\&space;of&space;i\&space;entered&space;-&space;number&space;of\&space;i\&space;removed}{number\&space;of\&space;i\&space;entered},\tag{1}\end{align*}\textbf{}" title="\begin{align*}\eta_i=\frac{number\ of i\ entered - number of\ i\ removed}{number\ of\ i\ entered},\tag{1}\end{align*}\textbf{}" />
 
 where `$i_{i}$` is contentions, flashes or special issues and measures the accuracy of each process. The second measure `$t_{i}$` captures the agility of the data entry process. Again, `$i_{i}$` assumes Value of contentions, flashes and special issues depending on the process being described. ti measures the time from initial establishment until the last element of a process is entered or removed from **_VBMS_**.
 
@@ -64,7 +65,8 @@ The results of our analysis are presented here using a combination of the mean a
 
 ### Claim Establishment Time
 
-As mentioned earlier, the claims establishment time `$t_{establishment}$` measures the time between when a claim is received and entered into **_VBMS_**. It is a proxy for the effectiveness of the claim’s intake process. The establishment times measured are:
+As mentioned earlier, the claims establishment time ![image](https://user-images.githubusercontent.com/84929934/120056419-ab843280-c001-11eb-83ee-732b34820664.png)
+ measures the time between when a claim is received and entered into **_VBMS_**. It is a proxy for the effectiveness of the claim’s intake process. The establishment times measured are:
 
 \begin{align*}
 \overline{t}_{establishment,ai}\quad\ = 3.59 \pm 13.40\ days\tag{2} 
@@ -80,9 +82,7 @@ Equations 2 and 3 are the establishment times for the **_CAAPIv1.0/BCAPI_** esta
 
 Next, we present the results of the contentions, flashes and special issues efficiencies as defined by Equation 1. The measures penalize the removal of previously entered data and have a range of 0 to 1. The results of the efficiency process are presented below:
 
-\begin{align*}
-\overline{\eta}_{contentions,ai}\quad\ = 0.84 \pm 0.31\tag{4} 
-\end{align*}
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}\quad\overline{\eta}_{contentions,ai}\quad\&space;=&space;\quad\0.84&space;\pm&space;0.31\quad\quad&space;{(4)}&space;\end{align*}" title="\begin{align*}\quad\overline{\eta}_{contentions,ai}\quad\ = \quad\0.84 \pm 0.31\quad\quad {(4)} \end{align*}" />
 
 \begin{align*}
 \overline{\eta}_{contentions,manual} = 0.84 \pm 0.41\tag{5} 
