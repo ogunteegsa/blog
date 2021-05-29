@@ -16,10 +16,14 @@ Great healthcare happens through everyday innovation. That’s why <a href = "ht
 
 ##  Introduction
 
+<p align="justify">
 As a Presidential Innovation Fellow at VA, I am working with VA Office of the Chief Technology Officer (CTO) to deliver Veterans’ benefits faster and use deep learning and health insights to optimize benefits dollars and care for Veterans more holistically. Like many federal agencies, VA is a data-rich organization. With massive data comes massive responsibility. Tech for tech’s sake won’t achieve our mission; we need to ensure we’re building the right products and services for the right reasons. To do so, we knew we needed to develop data-driven roadmaps. In this blog, we walk through a data-driven roadmap case study: claims processing with the CTO Benefits Team. We hope it serves as both a strategic and technical example that any data-rich organization can use.
+ </p>
 
+<p align="justify">
 VA offers tax-free monthly payments to Veterans who get injured during service or whose existing condition deteriorated as a result of service. Veterans must submit an application to receive these benefits, but the wait period to get a decision from VA is on average greater than 100 days. There are conflicting reasons for the long wait time, making it difficult to determine what areas of the process constitute the greatest bottlenecks and require immediate attention. 
-
+ </p>
+ 
 This blog presents the results of a big data analysis on the trajectory of a claim from “inception to the completion”, using disability claims data from January 2020 through January 2021. The data from this period contained about 100 million unique records and over 30 unique fields. Our analysis includes: 
 
 + Developing a simple linear phenomenological model that explained over 92% of variance in the observed processing time,tprocessing , thus enabling us to determine the contributions of the different process elements; 
