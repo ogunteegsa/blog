@@ -168,7 +168,7 @@ Decreasing the number of days until a claim is established  <img src="https://la
 
 Decreasing the number of days until the last contention is added, <img src="https://latex.codecogs.com/svg.image?t_{contentions,manual}" title="t_{contentions,manual}" />, by 1 day and keeping all else constant, decreases the overall processing time by 0.24 day. Equation 11 suggests we can save 13 days if all the contentions are added on receipt since it currently takes an average of 55 days until the last contention is added. 
 
-Increasing the efficiency of the contentions process, `$\eta_{contentions,manual}$`, by 1% decreases the overall processing by 0.05 day. Equation 5 shows that we can get an uplift of 0.8 days by improving the efficiency of the contentions process to unity.
+Increasing the efficiency of the contentions process, <img src="https://latex.codecogs.com/svg.image?\eta_{contentions,manual}" title="\eta_{contentions,manual}" />, by 1% decreases the overall processing by 0.05 day. Equation 5 shows that we can get an uplift of 0.8 days by improving the efficiency of the contentions process to unity.
 
 #### _Flash Process_
 
