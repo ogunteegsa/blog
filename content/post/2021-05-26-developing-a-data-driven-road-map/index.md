@@ -81,10 +81,10 @@ Equations 2 and 3 are the establishment times for the **_CAAPIv1.0/BCAPI_** esta
 
 Next, we present the results of the contentions, flashes and special issues efficiencies as defined by Equation 1. The measures penalize the removal of previously entered data and have a range of 0 to 1. The results of the efficiency process are presented below:
 
-<p align="center">
-<img src="https://latex.codecogs.com/svg.image?\begin{align*}\quad\overline{\eta}_{contentions,ai}\quad\&space;=&space;\quad\0.84&space;\pm&space;0.31\quad\quad&space;{(4)}&space;\end{align*}" title="\begin{align*}\quad\overline{\eta}_{contentions,ai}\quad\ = \quad\0.84 \pm 0.31\quad\quad {(4)} \end{align*}" />
+<p align="right">
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}\quad\overline{\eta}_{contentions,ai}&space;=&space;0.84&space;\pm&space;0.31&space;\quad&space;{(4)}&space;\end{align*}" title="\begin{align*}\quad\overline{\eta}_{contentions,ai}\quad\ = \quad\0.84 \pm 0.31\quad\quad {(4)} \end{align*}" />
 </p>
-<p align="center">
+<p align="right">
 <img src="https://latex.codecogs.com/svg.image?\begin{align*}\overline{\eta}_{contentions,manual}&space;=&space;0.84&space;\pm&space;0.41&space;\quad&space;{(5)}&space;\end{align*}" title="\begin{align*}\overline{\eta}_{contentions,manual} = 0.84 \pm 0.41 \quad {(5)} \end{align*}" />
 </p>
 
