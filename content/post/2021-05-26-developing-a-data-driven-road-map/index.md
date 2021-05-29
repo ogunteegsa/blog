@@ -184,16 +184,16 @@ Increasing the efficiency of special issues, <img src="https://latex.codecogs.co
 
 #### _Time to Close Claim after Ratings Decision_
 
-Decreasing the number of days from ratings to closure `$t_{ratings,manual}$`, by 1 day reduces the overall processing time by 0.09 day while keeping all other variables constant. The total uplift possible according to Equation 23 is 0.05 days.
+Decreasing the number of days from ratings to closure <img src="https://latex.codecogs.com/svg.image?t_{ratings\&space;manual}" title="t_{ratings\ manual}" />, by 1 day reduces the overall processing time by 0.09 day while keeping all other variables constant. The total uplift possible according to Equation 23 is 0.05 days.
 
 
 #### _Number of Locations_
 
-Decreasing the number of processing locations, `$n_{locations,manual}$`, by 1 reduces the overall processing time by 4.63 days.
+Decreasing the number of processing locations, <img src="https://latex.codecogs.com/svg.image?n_{locations\&space;manual}" title="n_{locations\ manual}" />, by 1 reduces the overall processing time by 4.63 days.
 
 #### _Number of Adjudicators_
 
-Decreasing the number of adjusters, `$n_{adjudicators,manual}$`, by 1 reduces the overall processing time by 2.10 days.
+Decreasing the number of adjusters, <img src="https://latex.codecogs.com/svg.image?n_{adjudicators\&space;manual}" title="n_{adjudicators\ manual}" />, by 1 reduces the overall processing time by 2.10 days.
 
 ### Insights - Summary
 
