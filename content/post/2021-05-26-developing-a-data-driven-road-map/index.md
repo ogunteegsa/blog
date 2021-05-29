@@ -206,8 +206,8 @@ _Process Action_                                                     |*Potential
 _Decrease_ <img src="https://latex.codecogs.com/svg.image?t_{flashes,manual}" title="t_{flashes,manual}" />                                    | *32*
 _Decrease_ <img src="https://latex.codecogs.com/svg.image?t_{special\&space;issues,manual}" title="t_{special\ issues,manual}" />                           | *27*
 _Increase_ <img src="https://latex.codecogs.com/svg.image?\eta_{special\&space;issues,manual}" title="\eta_{special\ issues,manual}" />                         | *16*
-_Decrease_ <img src="https://latex.codecogs.com/svg.image?t_{contention\&space;manual}&space;" title="t_{contention\ manual} " />                                | *13*
-_Decrease_ <img src="https://latex.codecogs.com/svg.image?Decrease&space;\&space;n_{locations\&space;manual}&space;" title="Decrease \ Decrease \ n_{locations\ manual} " />                                  | *5*
+_Decrease_ <img src="https://latex.codecogs.com/svg.image?Decrease&space;\&space;t_{contention\&space;manual}&space;" title="Decrease \ t_{contention\ manual} " />                                | *13*
+<img src="https://latex.codecogs.com/svg.image?Decrease&space;\&space;n_{locations\&space;manual}&space;" title="Decrease \ n_{locations\ manual} " />                                  | *5*
 <img src="https://latex.codecogs.com/svg.image?Decrease&space;\&space;t_{established&space;\&space;manual}" title="t_{established \ manual}" />                                | *3*
   <img src="https://latex.codecogs.com/svg.image?Decrease&space;\&space;n_{adjudicators&space;\&space;manual}&space;" title="Decrease \ n_{adjudicators \ manual} " />                            | *2*
 <img src="https://latex.codecogs.com/svg.image?Increase&space;\&space;\eta_{contentions&space;\&space;manual}" title="Increase \ \eta_{contentions \ manual}" />                             | *1*
