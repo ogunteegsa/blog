@@ -141,13 +141,9 @@ Finally, **_AI_** established claims contain fewer claimant contentions at submi
 
 We also estimated the time it took to close a claim once a ratings decision has been reached, `$t_{ratings}$`. No noticeable difference was observed between **_AI_** established claims and claims established through the manual route as shown below:
 
-\begin{align*}
-\overline{t}_{ratings,ai}\quad\ = 0.57 \pm 3.02\ days\tag{22} 
-\end{align*}
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{ratings,ai}\quad\&space;=&space;0.57&space;\pm&space;3.02\&space;\qquad\qquad&space;{(22)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{ratings,ai}\quad\ = 0.57 \pm 3.02\ \qquad\qquad {(22)} \end{align*}" />
 
-\begin{align*}
-\overline{t}_{ratings,manual} = 0.57 \pm 3.30\ days\tag{23} 
-\end{align*}
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{ratings,manual}&space;=&space;0.57&space;\pm&space;3.30\&space;\qquad\qquad{(23)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{ratings,manual} = 0.57 \pm 3.30\ \qquad\qquad{(23)} \end{align*}" />
 
 
 ***
