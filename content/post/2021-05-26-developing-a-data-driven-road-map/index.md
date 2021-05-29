@@ -24,14 +24,16 @@ As a Presidential Innovation Fellow at VA, I am working with VA Office of the Ch
 VA offers tax-free monthly payments to Veterans who get injured during service or whose existing condition deteriorated as a result of service. Veterans must submit an application to receive these benefits, but the wait period to get a decision from VA is on average greater than 100 days. There are conflicting reasons for the long wait time, making it difficult to determine what areas of the process constitute the greatest bottlenecks and require immediate attention. 
  </p>
  
+<p align="justify"> 
 This blog presents the results of a big data analysis on the trajectory of a claim from “inception to the completion”, using disability claims data from January 2020 through January 2021. The data from this period contained about 100 million unique records and over 30 unique fields. Our analysis includes: 
 
-+ Developing a simple linear phenomenological model that explained over 92% of variance in the observed processing time,tprocessing , thus enabling us to determine the contributions of the different process elements; 
++ Developing a simple linear phenomenological model that explained over 92% of variance in the observed processing time,<img src="https://latex.codecogs.com/svg.image?t_{processing}" title="t_{processing}" /> , thus enabling us to determine the contributions of the different process elements; 
 
 + Ranking the different process elements by importance to determine what would lead to the greatest decrease in processing time; 
 and
 + Proposing solutions to address the problems. 
-
+ </p>
+ 
 ***
 
 ## The Disability Claims Process and Performance Measures
