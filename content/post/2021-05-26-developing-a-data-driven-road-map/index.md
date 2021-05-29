@@ -152,11 +152,7 @@ We also estimated the time it took to close a claim once a ratings decision has 
 
 Having described these performance measures, a phenomenological model relating them to the processing time  `$t_{processing}$`  was developed. The processing time `$t_{processing}$` is defined strictly as the difference between when a claim was received at VA and closed after a disability rating decision was reached. The lumped parameter model approach adopted here did not take into account other details on the claims form including medical service records, demography information, and additional evidence relevant to determining Validity or otherwise of a claim. Our model was able to describe over ninety two percent of Variability in the processing time which is more than sufficient for its intended purpose of determining the contribution of each measure to the dependent variable. 
 
-$$t_{processing,manual}= 0.42*t_{flashes}\+0.24*t_{contentions}+0.51*t_{special \ issues}+$$
-$$\quad\\quad\ \quad\ \quad\ \quad \quad \quad 0.70*t_{establisment}+0.09*t_{ratings}+5.85*n_{locations}\quad-$$
-$$\quad\\quad\ \quad\ \quad\ \quad \quad \quad 1.22*n^{2}_{locations}+ 2.10*n_{adjudicators}+0.24*n_{contentions}-$$
-$$\quad\\quad\ \quad\ \quad\ \quad \quad \quad 24.0*\eta_{special\ issues}+44.0*\eta^{2}_{special \ issues}+20.2*\eta^{2}_{flashes}-$$
-$$5.62*\eta_{contentions}\$$
+<img src="https://latex.codecogs.com/svg.image?t_{processing&space;\&space;manual}=&space;0.42*t_{flashes}&plus;0.24*t_{contentions}&plus;0.51*t_{special&space;\&space;issues}&plus;0.70*t_{establisment}&plus;0.09*t_{ratings}&plus;5.85*n_{locations}-1.22*n^{2}_{locations}&plus;&space;2.10*n_{adjudicators}&plus;0.24*n_{contentions}-&space;24.0*\eta_{special\&space;issues}&plus;44.0*\eta^{2}_{special&space;\&space;issues}&plus;20.2*\eta^{2}_{flashes}-5.62*\eta_{contentions}" title="t_{processing \ manual}= 0.42*t_{flashes}+0.24*t_{contentions}+0.51*t_{special \ issues}+0.70*t_{establisment}+0.09*t_{ratings}+5.85*n_{locations}-1.22*n^{2}_{locations}+ 2.10*n_{adjudicators}+0.24*n_{contentions}- 24.0*\eta_{special\ issues}+44.0*\eta^{2}_{special \ issues}+20.2*\eta^{2}_{flashes}-5.62*\eta_{contentions}" />
                     
 ***
 
