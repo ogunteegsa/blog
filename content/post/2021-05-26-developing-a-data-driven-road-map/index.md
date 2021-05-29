@@ -156,9 +156,13 @@ Our analysis revealed that an average of 3 **_VSRs_** work on every claim regard
 
 Finally, **_AI_** established claims contain fewer claimant contentions at submission:
 
+<p align="center">
 <img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{contentions,ai}\&space;=&space;9&space;\pm&space;8\&space;\qquad\qquad&space;{(20)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{contentions,ai}\ = 9 \pm 8\ \qquad\qquad {(20)} \end{align*}" />
+</p>
 
+<p align="center">
 <img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{contentions,manual}&space;=&space;11&space;\pm&space;13\&space;\qquad\qquad&space;{(21)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{contentions,manual} = 11 \pm 13\ \qquad\qquad {(21)} \end{align*}" />
+</p>
 
 We also estimated the time it took to close a claim once a ratings decision has been reached, <img src="https://latex.codecogs.com/svg.image?t_{ratings}" title="t_{ratings}" />. No noticeable difference was observed between **_AI_** established claims and claims established through the manual route as shown below:
 
