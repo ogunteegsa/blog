@@ -203,7 +203,7 @@ The results show that improving the current efficiencies of the contentions and 
 
 _Process Action_                                                     |*Potential Decrease in Processing Time(days)*
 :--------------------------------------------------------------------|:----------------------------------------------------------------------:
-_Decrease_ `$t_{flashes,manual}$`                                    | *32*
+_Decrease_ <img src="https://latex.codecogs.com/svg.image?t_{flashes,manual}" title="t_{flashes,manual}" />                                    | *32*
 _Decrease_ `$t_{special\;issues,manual}$`                            | *27*
 _Increase_ `$\eta_{special\;issues,manual}$`                         | *16*
 _Decrease_ `$t_{contentions,manual}$`                                | *13*
