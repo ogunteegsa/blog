@@ -80,9 +80,7 @@ Next, we present the results of the contentions, flashes and special issues effi
 
 <img src="https://latex.codecogs.com/svg.image?\begin{align*}\quad\overline{\eta}_{contentions,ai}\quad\&space;=&space;\quad\0.84&space;\pm&space;0.31\quad\quad&space;{(4)}&space;\end{align*}" title="\begin{align*}\quad\overline{\eta}_{contentions,ai}\quad\ = \quad\0.84 \pm 0.31\quad\quad {(4)} \end{align*}" />
 
-\begin{align*}
-\overline{\eta}_{contentions,manual} = 0.84 \pm 0.41\tag{5} 
-\end{align*}
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}\overline{\eta}_{contentions,manual}&space;=&space;0.84&space;\pm&space;0.41&space;\quad&space;{(5)}&space;\end{align*}" title="\begin{align*}\overline{\eta}_{contentions,manual} = 0.84 \pm 0.41 \quad {(5)} \end{align*}" />
 
 The contentions efficiencies of both the **_AI_** process (Equation 4) and manual method (Equation 5) are similar, with the manual method efficiency slightly being more variable. The efficiencies of the flash process are also similar for the **_AI_** and manual establishment methods as shown below:
 
