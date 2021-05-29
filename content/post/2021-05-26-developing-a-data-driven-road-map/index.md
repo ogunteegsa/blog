@@ -207,9 +207,9 @@ _Decrease_ <img src="https://latex.codecogs.com/svg.image?t_{flashes,manual}" ti
 _Decrease_ <img src="https://latex.codecogs.com/svg.image?t_{special\&space;issues,manual}" title="t_{special\ issues,manual}" />                           | *27*
 _Increase_ <img src="https://latex.codecogs.com/svg.image?\eta_{special\&space;issues,manual}" title="\eta_{special\ issues,manual}" />                         | *16*
 _Decrease_ <img src="https://latex.codecogs.com/svg.image?t_{contention\&space;manual}&space;" title="t_{contention\ manual} " />                                | *13*
-_Decrease_ `$n_{locations,manual}$`                                  | *5*
-_Decrease_ `$t_{established,manual}$`                                | *3*
-_Decrease_ `$n_{adjudicators,manual}$`                               | *2*
+_Decrease_ <img src="https://latex.codecogs.com/svg.image?n_{locations\&space;manual}&space;" title="n_{locations\ manual} " />                                  | *5*
+_Decrease_ <img src="https://latex.codecogs.com/svg.image?t_{established&space;\&space;manual}" title="t_{established \ manual}" />                                | *3*
+_Decrease_ <img src="https://latex.codecogs.com/svg.image?n_{adjudicators&space;\&space;manual}&space;" title="n_{adjudicators \ manual} " />                              | *2*
 _Increase_ `$\eta_{contentions,manual}$`                             | *1*
 _Increase_ `$\eta_{flashes,manual}$`                                 | *0*
 ### Table 1.0: Potential Savings in days.
