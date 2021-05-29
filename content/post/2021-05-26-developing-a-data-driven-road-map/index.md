@@ -98,13 +98,9 @@ The special issues efficiency of the AI established claims is noticeably higher 
 While the process efficiencies of the AI established claims are slightly better than those established through manual techniques, their processing times are noticeably slower as shown below:
 
 
-\begin{align*}
-\overline{t}_{contentions,ai}\quad\ = 62 \pm 68\ days\tag{10} 
-\end{align*}
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}&space;\overline{t}_{contentions,ai}\quad\&space;=&space;62&space;\pm&space;68\&space;days&space;\qquad{(10)}&space;\end{align*}" title="\inline \begin{align*} \overline{t}_{contentions,ai}\quad\ = 62 \pm 68\ days \qquad{(10)} \end{align*}" />
 
-\begin{align*}
-\overline{t}_{contentions,manual} = 55 \pm 68\ days\tag{11}
-\end{align*}
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{contentions,manual}&space;=&space;55&space;\pm&space;68\&space;days\qquad{(11)}\end{align*}" title="\inline \begin{align*}\overline{t}_{contentions,manual} = 55 \pm 68\ days\qquad{(11)}\end{align*}" />
 
 
 ***
