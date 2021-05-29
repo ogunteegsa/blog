@@ -178,9 +178,9 @@ Increasing the current efficiency of the flash process, <img src="https://latex.
 
 #### _Special Issues_
 
-Decreasing the current number of days until the last special issue is added, `$t_{special\ issues,manual}$`, by 1 day and keeping other variables constant decreases the overall processing time by 0.51 day. It currently takes an average of 53 days until the last special issue is added according to Equation 9, leading to a potential savings of 27 days if all special issues can be added at establishment.
+Decreasing the current number of days until the last special issue is added, <img src="https://latex.codecogs.com/svg.image?t_{special\&space;issues,manual}" title="t_{special\ issues,manual}" />, by 1 day and keeping other variables constant decreases the overall processing time by 0.51 day. It currently takes an average of 53 days until the last special issue is added according to Equation 9, leading to a potential savings of 27 days if all special issues can be added at establishment.
 
-Increasing the efficiency of special issues, `$\eta_{special\;issues,manual}$`, by 1% reduces the overall processing time by 0.24 day. Using Equation 15 as our basis, there is a potential of saving 16.1 days if `$\eta_{special\ issues,manual}$` can be increased by 67.3%.
+Increasing the efficiency of special issues, <img src="https://latex.codecogs.com/svg.image?\eta_{special\&space;issues,manual}" title="\eta_{special\ issues,manual}" />, by 1% reduces the overall processing time by 0.24 day. Using Equation 15 as our basis, there is a potential of saving 16.1 days if  <img src="https://latex.codecogs.com/svg.image?\eta_{special\&space;issues,manual}" title="\eta_{special\ issues,manual}" /> can be increased by 67.3%.
 
 #### _Time to Close Claim after Ratings Decision_
 
