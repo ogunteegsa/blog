@@ -211,7 +211,7 @@ _Decrease_ <img src="https://latex.codecogs.com/svg.image?n_{locations\&space;ma
 _Decrease_ <img src="https://latex.codecogs.com/svg.image?t_{established&space;\&space;manual}" title="t_{established \ manual}" />                                | *3*
   <img src="https://latex.codecogs.com/svg.image?Decrease&space;\&space;n_{adjudicators&space;\&space;manual}&space;" title="Decrease \ n_{adjudicators \ manual} " />                            | *2*
 <img src="https://latex.codecogs.com/svg.image?Increase&space;\&space;\eta_{contentions&space;\&space;manual}" title="Increase \ \eta_{contentions \ manual}" />                             | *1*
-_Increase_ `$\eta_{flashes,manual}$`                                 | *0*
+<img src="https://latex.codecogs.com/svg.image?Increase\&space;\eta_{flashes&space;\&space;manual}" title="Increase\ \eta_{flashes \ manual}" />                                 | *0*
 ### Table 1.0: Potential Savings in days.
 
 ***
