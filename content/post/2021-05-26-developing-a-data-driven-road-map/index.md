@@ -68,9 +68,7 @@ The results of our analysis are presented here using a combination of the mean a
 As mentioned earlier, the claims establishment time <img src="https://latex.codecogs.com/svg.image?\inline&space;t_{establishment}&space;" title="\inline t_{establishment} " />
  measures the time between when a claim is received and entered into **_VBMS_**. It is a proxy for the effectiveness of the claim’s intake process. The establishment times measured are:
 
-\begin{align*}
-\overline{t}_{establishment,ai}\quad\ = 3.59 \pm 13.40\ days\tag{2} 
-\end{align*}
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{t}_{establishment,ai}\quad\&space;=&space;3.59&space;\pm&space;13.40\&space;days\qquad\qquad\&space;{2}&space;\end{align*}" title="\begin{align*} \overline{t}_{establishment,ai}\quad\ = 3.59 \pm 13.40\ days\qquad\qquad\ {2} \end{align*}" />
 
 \begin{align*}
 \overline{t}_{establishment,manual} = 3.77 \pm 12.22\ days\tag{3} 
