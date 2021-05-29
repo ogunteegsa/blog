@@ -125,7 +125,7 @@ Our analysis revealed that an average of 3 **_VSRs_** work on every claim regard
 
 <img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{adjudicators,ai}\quad\&space;=&space;3&space;\pm&space;1\&space;days\qquad\qquad{(16)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{adjudicators,ai}\quad\ = 3 \pm 1\ days\qquad\qquad{(16)} \end{align*}" />
 
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{adjudicators,manual}&space;=&space;3&space;\pm&space;2\&space;days\qquad\qquad&space;{(17)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{adjudicators,manual} = 3 \pm 2\ days\qquad\qquad {(17)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{adjudicators,manual}&space;=&space;3&space;\pm&space;2\&space;days\qquad\qquad&space;{(17)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{adjudicators,manual} = 3 \pm 2\ days\qquad\qquad {(17)} \end{align*}" />
 
 **_AI_** established claims were also processed at an average of 3 locations as opposed to 2 locations for claims established through the manual method:
 
