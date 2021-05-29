@@ -1,23 +1,6 @@
----
-title: Developing a Data-Driven Road Map
-author: babatunde oguntade, Paul Shute
-date: '2021-05-26'
-categories:
-  - R
-tags:
-  - R Markdown
-slug: developing-a-data-driven-road-map
-output:
-  blogdown::html_page:
-    toc: yes
-    fig_width: 8
-    dev: svg
----
+# Developing a Data-Driven Road Map
+#### _Babatunde Oguntade, Paul Shute_
 
-<style>
-body {
-text-align: justify}
-</style>
 
 ***
 
