@@ -1,7 +1,6 @@
 # _Developing a Data-Driven Road Map_
 
 #### _Babatunde Oguntade, Paul Shute_
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 ***
 
