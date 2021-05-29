@@ -44,7 +44,7 @@ Even though we do not currently measure the revolving activities around **_VBMS_
 
 The first measure known as the efficiency of a process is defined as:
 
-<img src="https://latex.codecogs.com/svg.image?\begin{align*}\eta_i=\frac{number\&space;of&space;i\&space;entered&space;-&space;number&space;of\&space;i\&space;removed}{number\&space;of\&space;i\&space;entered},\tag{1}\end{align*}\textbf{}" title="\begin{align*}\eta_i=\frac{number\ of i\ entered - number of\ i\ removed}{number\ of\ i\ entered},\tag{1}\end{align*}\textbf{}" />
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}\eta_i=\frac{number\&space;of&space;i\&space;entered&space;-&space;number&space;of\&space;i\&space;removed}{number\&space;of\&space;i\&space;entered},&space;\qquad&space;{(1)}\end{align*}" title="\begin{align*}\eta_i=\frac{number\ of i\ entered - number of\ i\ removed}{number\ of\ i\ entered}, \qquad {(1)}\end{align*}" />
 
 where `$i_{i}$` is contentions, flashes or special issues and measures the accuracy of each process. The second measure `$t_{i}$` captures the agility of the data entry process. Again, `$i_{i}$` assumes Value of contentions, flashes and special issues depending on the process being described. ti measures the time from initial establishment until the last element of a process is entered or removed from **_VBMS_**.
 
@@ -83,21 +83,15 @@ Next, we present the results of the contentions, flashes and special issues effi
 
 The contentions efficiencies of both the **_AI_** process (Equation 4) and manual method (Equation 5) are similar, with the manual method efficiency slightly being more variable. The efficiencies of the flash process are also similar for the **_AI_** and manual establishment methods as shown below:
 
-\begin{align*} \overline{\eta}_{flashes,ai}\quad\ = 0.84 \pm 0.20\qquad{(6)} \end{align*}
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{flashes,ai}\quad\&space;=&space;0.84&space;\pm&space;0.20\qquad{(6)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{flashes,ai}\quad\ = 0.84 \pm 0.20\qquad{(6)} \end{align*}" />
 
-\begin{align*}
-\overline{\eta}_{flashes,manual} = 0.84 \pm 0.20\qquad{(7)} 
-\end{align*}
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{flashes,manual}&space;=&space;0.84&space;\pm&space;0.20\qquad{(7)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{flashes,manual} = 0.84 \pm 0.20\qquad{(7)} \end{align*}" />
 
 The special issues efficiency of the AI established claims is noticeably higher than that of manually established claims as shown below:
 
-\begin{align*}
-\overline{\eta}_{special \ issues,ai}\quad\ = 0.42 \pm 0.20\tag{8} 
-\end{align*}
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{special&space;\&space;issues,ai}\quad\&space;=&space;0.42&space;\pm&space;0.20\qquad\&space;{(8)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{special \ issues,ai}\quad\ = 0.42 \pm 0.20\qquad\ {(8)} \end{align*}" />
 
-\begin{align*}
-\overline{\eta}_{special \ issues,manual} = 0.33 \pm 0.23\tag{9} 
-\end{align*}
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{special&space;\&space;issues,manual}&space;=&space;0.33&space;\pm&space;0.23&space;\qquad&space;{(9)}&space;\end{align*}&space;" title="\begin{align*} \overline{\eta}_{special \ issues,manual} = 0.33 \pm 0.23 \qquad {(9)} \end{align*} " />
 
 ### Claim Establishment Agility 
 
