@@ -105,13 +105,9 @@ While the process efficiencies of the AI established claims are slightly better 
 
 ***
 
-\begin{align*}
-\overline{t}_{flashes,ai}\quad\ = 82 \pm 70\ days\tag{12} 
-\end{align*}
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{flashes,ai}\quad\&space;=&space;82&space;\pm&space;70\&space;days\qquad\qquad&space;{(12)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{flashes,ai}\quad\ = 82 \pm 70\ days\qquad\qquad {(12)} \end{align*}" />
 
-\begin{align*}
-\overline{t}_{flashes,manual} = 77 \pm 69\ days\tag{13}
-\end{align*}
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{flashes,manual}&space;=&space;77&space;\pm&space;69\&space;days\qquad\qquad&space;{(13)}\end{align*}" title="\inline \begin{align*}\overline{t}_{flashes,manual} = 77 \pm 69\ days\qquad\qquad {(13)}\end{align*}" />
 
 
 ***
