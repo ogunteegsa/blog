@@ -172,9 +172,9 @@ Increasing the efficiency of the contentions process, <img src="https://latex.co
 
 #### _Flash Process_
 
-Decreasing the current number of days until the last flash is added `$t_{flashes,manual}$`, by 1 day and keeping other variables constant decreases the overall processing time by 0.42 day. It currently takes an average of 77 days until the last flash is added according to Equation 13 implying the most savings in days, we can get by adding flashes on day zero is 32 days. 
+Decreasing the current number of days until the last flash is added <img src="https://latex.codecogs.com/svg.image?t_{flashes,manual}" title="t_{flashes,manual}" />, by 1 day and keeping other variables constant decreases the overall processing time by 0.42 day. It currently takes an average of 77 days until the last flash is added according to Equation 13 implying the most savings in days, we can get by adding flashes on day zero is 32 days. 
 
-Increasing the current efficiency of the flash process, `$\eta_{flashes,manual}$`, by 1% and keeping all else constant increases the overall processing time by 0.002 day. Equation 8 shows the most improvement we can get on the flash efficiency is 20% indicating we can potentially save 0 extra days by improving the accuracy of the flash entry process.
+Increasing the current efficiency of the flash process, <img src="https://latex.codecogs.com/svg.image?\eta_{flashes,manual}" title="\eta_{flashes,manual}" />, by 1% and keeping all else constant increases the overall processing time by 0.002 day. Equation 8 shows the most improvement we can get on the flash efficiency is 20% indicating we can potentially save 0 extra days by improving the accuracy of the flash entry process.
 
 #### _Special Issues_
 
