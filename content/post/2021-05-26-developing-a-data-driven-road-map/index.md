@@ -86,40 +86,45 @@ Next, we present the results of the contentions, flashes and special issues effi
 <img src="https://latex.codecogs.com/svg.image?\begin{align*}\overline{\eta}_{contentions,manual}&space;=&space;0.84&space;\pm&space;0.41&space;\quad&space;{(5)}&space;\end{align*}" title="\begin{align*}\overline{\eta}_{contentions,manual} = 0.84 \pm 0.41 \quad {(5)} \end{align*}" />
 </p>
 The contentions efficiencies of both the **_AI_** process (Equation 4) and manual method (Equation 5) are similar, with the manual method efficiency slightly being more variable. The efficiencies of the flash process are also similar for the **_AI_** and manual establishment methods as shown below:
-
+<p align="center">
 <img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{flashes,ai}\quad\&space;=&space;0.84&space;\pm&space;0.20\qquad{(6)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{flashes,ai}\quad\ = 0.84 \pm 0.20\qquad{(6)} \end{align*}" />
-
+</p>
+<p align="center">
 <img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{flashes,manual}&space;=&space;0.84&space;\pm&space;0.20\qquad{(7)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{flashes,manual} = 0.84 \pm 0.20\qquad{(7)} \end{align*}" />
-
+</p>
 The special issues efficiency of the AI established claims is noticeably higher than that of manually established claims as shown below:
-
+<p align="center">
 <img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{special&space;\&space;issues,ai}\quad\&space;=&space;0.42&space;\pm&space;0.20\qquad\&space;{(8)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{special \ issues,ai}\quad\ = 0.42 \pm 0.20\qquad\ {(8)} \end{align*}" />
-
+</p>
+<p align="center">
 <img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{special&space;\&space;issues,manual}&space;=&space;0.33&space;\pm&space;0.23&space;\qquad&space;{(9)}&space;\end{align*}&space;" title="\begin{align*} \overline{\eta}_{special \ issues,manual} = 0.33 \pm 0.23 \qquad {(9)} \end{align*} " />
-
+</p>
 ### Claim Establishment Agility 
 
 While the process efficiencies of the AI established claims are slightly better than those established through manual techniques, their processing times are noticeably slower as shown below:
 
-
+<p align="center">
 <img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}&space;\overline{t}_{contentions,ai}\quad\&space;=&space;62&space;\pm&space;68\&space;days&space;\qquad{(10)}&space;\end{align*}" title="\inline \begin{align*} \overline{t}_{contentions,ai}\quad\ = 62 \pm 68\ days \qquad{(10)} \end{align*}" />
-
+</p>
+<p align="center">
 <img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{contentions,manual}&space;=&space;55&space;\pm&space;68\&space;days\qquad{(11)}\end{align*}" title="\inline \begin{align*}\overline{t}_{contentions,manual} = 55 \pm 68\ days\qquad{(11)}\end{align*}" />
-
+</p>
 
 ***
-
+<p align="center">
 <img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{flashes,ai}\quad\&space;=&space;82&space;\pm&space;70\&space;days\qquad\qquad&space;{(12)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{flashes,ai}\quad\ = 82 \pm 70\ days\qquad\qquad {(12)} \end{align*}" />
-
+</p>
+<p align="center">
 <img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{flashes,manual}&space;=&space;77&space;\pm&space;69\&space;days\qquad\qquad&space;{(13)}\end{align*}" title="\inline \begin{align*}\overline{t}_{flashes,manual} = 77 \pm 69\ days\qquad\qquad {(13)}\end{align*}" />
-
+</p>
 
 ***
-
+<p align="center">
 <img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{special&space;\&space;issues,ai}\quad\&space;=&space;59&space;\pm&space;67\&space;days\qquad\qquad{(14)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{special \ issues,ai}\quad\ = 59 \pm 67\ days\qquad\qquad{(14)} \end{align*}" />
-
+</p>
+<p align="center">
 <img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{special&space;\&space;issues,manual}&space;=&space;53&space;\pm&space;66\&space;days\qquad\qquad&space;{(15)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{special \ issues,manual} = 53 \pm 66\ days\qquad\qquad {(15)} \end{align*}" />
-
+</p>
 It took 5 – 7 days longer for **_AI_** established claims to be completed in comparison to claims established through the manual method. 
 
 
