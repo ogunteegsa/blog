@@ -38,16 +38,22 @@ and
 
 ## The Disability Claims Process and Performance Measures
 
-When VA receives a disability claim, an end product is created directly in the Veteran Benefits Management System (**_VBMS_**) for manual establishment, or through the Corporate Database and read by **_VBMS_** otherwise. The end product (**_EP_**) system is the primary workload monitoring attribute for Veterans Service Centers. The end product creation involves three major steps, which we describe as the Contention, Flash and Special Issues processes:
+<p align="justify"> 
+When VA receives a disability claim, an end product is created directly in the Veteran Benefits Management System (VBMS) for manual establishment, or through the Corporate Database and read by VBMS otherwise. The end product (EP) system is the primary workload monitoring attribute for Veterans Service Centers. The end product creation involves three major steps, which we describe as the Contention, Flash and Special Issues processes:
 
 + **Contention**: The contention process involves translating the conditions or issues raised by the Veteran into VA parlance. Example: A Veteran may have “ringing in the ear” as a contention, which must be translated to “tinnitus” during the contention process.
 + **Flash**: The flash process is initially a tagging step that allows claimant-specific details to be added to a claim to ensure proper routing.  Subsequently, evidence-based details are added as flash as more information is gathered on the claim. Example: A common initial flash used in the routing of claims is “Homelessness.” Veterans who indicate they are homeless on their application are prioritized in claims processing.
 + **Special Issues**: The special issues process is similar to the flash process but the tag involved here is claim-specific. Example: Agent Orange-Vietnam is associated with claims where Veterans contend they were exposed to Agent Orange during their service in Vietnam. 
+ </p> 
+ 
+<p align="justify">  
+End product creation in VBMS is referred to as the “establishment” of a claim. The difference between when a claim is received and established in VBMS is depicted as <img src="https://latex.codecogs.com/svg.image?t_{establishment}" title="t_{establishment}" /> and is a measure of the effectiveness of the claim’s intake method.
+ </p> 
 
-End product creation in **_VBMS_** is referred to as the “establishment” of a claim. The difference between when a claim is received and established in **_VBMS_** is depicted as <img src="https://latex.codecogs.com/svg.image?t_{establishment}" title="t_{establishment}" /> and is a measure of the effectiveness of the claim’s intake method.
-
-Historically, it took weeks before claims were established, prompting a flurry of innovative solutions around the intake process. Specifically, VA Benefits Team, including Presidential Innovation Fellow Nelson A. Colon Vargas, PhD, created  [the first artificial intelligence (**_AI_**) solution at VA](https://www.oit.va.gov/news/article/?read=va-launches-smart-tool-to-reduce-veteran-wait-times-for-disability-claims) to ensure that claims are promptly established. The **_AI_** solution known as the Claims Attributes Application Programming Interface version 1.0 (**_CAAPIv1.0_**) and the Benefits Claims Application Programming Interface (**_BCAPI_**) established preprocessed claims on receipt in **_VBMS_** by automatically translating contentions to classification codes. We make a distinction between claims established via the **_CAAPIv1.0_** and **_BCAPI_** and those established through ‘**_manual_**’ techniques not discussed here in order to measure the performance of the **_AI_** solution in a production environment.
-
+<p align="justify">  
+Historically, it took weeks before claims were established, prompting a flurry of innovative solutions around the intake process. Specifically, VA Benefits Team, including Presidential Innovation Fellow Nelson A. Colon Vargas, PhD, created  <a href = "https://www.oit.va.gov/news/article/?read=va-launches-smart-tool-to-reduce-veteran-wait-times-for-disability-claims">the first artificial intelligence (AI) solution at VA</a> to ensure that claims are promptly established. The AI solution known as the Claims Attributes Application Programming Interface version 1.0 (CAAPIv1.0) and the Benefits Claims Application Programming Interface (BCAPI) established preprocessed claims on receipt in VBMS by automatically translating contentions to classification codes. We make a distinction between claims established via the CAAPIv1.0 and BCAPI and those established through ‘manual’ techniques not discussed here in order to measure the performance of the AI solution in a production environment.
+ </p> 
+ 
 Once claims are established, either through the **_manual_** or **_AI_** approach, they are routed to the appropriate Veteran Service Representative (**_VSR_**) to begin the evidence building or adjudication process. In the course of our discovery efforts, it became clear that the entry of data into **_VBMS_** is not a one-time event because the **_VSRs_** update and delete contentions, flashes and special issues multiple times before a claim is fully developed.
 
 Even though we do not currently measure the revolving activities around **_VBMS_**, we believe it is central to claims’ long processing time. To measure these activities, we introduced two new measures for contentions, flashes and special issues. These measures capture the accuracy and agility of data flow into **_VBMS_**. 
