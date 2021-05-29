@@ -66,28 +66,35 @@ The first measure known as the efficiency of a process is defined as:
  </p>
 
 <p align="justify"> 
-where <img src="https://latex.codecogs.com/svg.image?\inline&space;i&space;" title="\inline i " /> is contentions, flashes or special issues and measures the accuracy of each process. The second measure <img src="https://latex.codecogs.com/svg.image?\inline&space;t_{i}" title="\inline t_{i}" /> captures the agility of the data entry process. Again, <img src="https://latex.codecogs.com/svg.image?\inline&space;i&space;" title="\inline i " /> assumes value of contentions, flashes and special issues depending on the process being described. ti measures the time from initial establishment until the last element of a process is entered or removed from VBMS.
+where <img src="https://latex.codecogs.com/svg.image?\inline&space;i&space;" title="\inline i " /> is contentions, flashes or special issues and measures the accuracy of each process. The second measure <img src="https://latex.codecogs.com/svg.image?\inline&space;t_{i}" title="\inline t_{i}" /> captures the agility of the data entry process. Again, <img src="https://latex.codecogs.com/svg.image?\inline&space;i&space;" title="\inline i " /> assumes value of contentions, flashes and special issues depending on the process being described. <img src="https://latex.codecogs.com/svg.image?t_{i}" title="t_{i}" /> measures the time from initial establishment until the last element of a process is entered or removed from VBMS.
 </p>
 
+<p align="justify"> 
 The situation described above also leads to multiple VSRs in different locations working on a claim before it is concluded. To capture this, we introduced another two measures, the total number of unique VSRs or adjudicators that work on a claim  <img src="https://latex.codecogs.com/svg.image?\inline&space;n_{adjudicators}" title="\inline n_{adjudicators}" /> and the total number of unique locations where a claim was processed - <img src="https://latex.codecogs.com/svg.image?\inline&space;n_{locations}" title="\inline n_{locations}" />. Finally, we introduce the <img src="https://latex.codecogs.com/svg.image?\inline&space;n_{contentions}" title="\inline n_{contentions}" /> which measures the number of unique claimant contentions at submission.  Submissions with a lot of contentions would likely be more complicated than the ones with fewer contentions. Utilizing the huge dataset available to us, we proceeded to determine these metrics for claims established using manual methods and the AI based CAAPIv1.0/BCAPI. 
-
+</p>
 
 ***
 
 ## Disability Benefits Data
 
-The data used in our analysis was provided by the Office of Performance Analysis and Integrity. Specifically, they provided journal data detailing all activities on a claim. This allowed us to track the dynamics of all the claims we considered. We worked with 103 million unique rows and 38 fields, spanning January 2020 to January 2021. We focused only on claim submissions received, processed, and closed within the time period specified to ensure the comparison between claims that are **_AI_** established and those manually established is unbiased. We present some of our high-level findings in the next section.
+<p align="justify"> 
+The data used in our analysis was provided by the Office of Performance Analysis and Integrity. Specifically, they provided journal data detailing all activities on a claim. This allowed us to track the dynamics of all the claims we considered. We worked with 103 million unique rows and 38 fields, spanning January 2020 to January 2021. We focused only on claim submissions received, processed, and closed within the time period specified to ensure the comparison between claims that are AI established and those manually established is unbiased. We present some of our high-level findings in the next section.
+</p>
 
 ***
 
 ## Disability Process Metrics
 
-The results of our analysis are presented here using a combination of the mean and standard deviation for each measure for both claim types under consideration: claims established through **_CAAPIv1.0/BCAPI_** protocol and those established using manual techniques.
+<p align="justify"> 
+The results of our analysis are presented here using a combination of the mean and standard deviation for each measure for both claim types under consideration: claims established through CAAPIv1.0/BCAPI protocol and those established using manual techniques.
+</p>
 
 ### Claim Establishment Time
 
+<p align="justify"> 
 As mentioned earlier, the claims establishment time <img src="https://latex.codecogs.com/svg.image?\inline&space;t_{establishment}&space;" title="\inline t_{establishment} " />
- measures the time between when a claim is received and entered into **_VBMS_**. It is a proxy for the effectiveness of the claim’s intake process. The establishment times measured are:
+ measures the time between when a claim is received and entered into VBMS. It is a proxy for the effectiveness of the claim’s intake process. The establishment times measured are:
+</p>
 
 <p align="right">
 <img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{t}_{establishment,ai}\&space;=&space;3.59&space;\pm&space;13.40\&space;days\qquad\qquad\&space;{(2)}&space;\end{align*}" title="\begin{align*} \overline{t}_{establishment,ai}\quad\ = 3.59 \pm 13.40\ days\qquad\qquad\qquad{(2)} \end{align*}" />
