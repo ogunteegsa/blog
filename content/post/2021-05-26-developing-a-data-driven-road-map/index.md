@@ -129,13 +129,9 @@ Our analysis revealed that an average of 3 **_VSRs_** work on every claim regard
 
 **_AI_** established claims were also processed at an average of 3 locations as opposed to 2 locations for claims established through the manual method:
 
-\begin{align*}
-\overline{n}_{locations,ai}\quad\ = 3 \pm 1\ days\tag{18} 
-\end{align*}
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{locations,ai}\quad\&space;=&space;3&space;\pm&space;1\&space;days\qquad\qquad{(18)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{locations,ai}\quad\ = 3 \pm 1\ days\qquad\qquad{(18)} \end{align*}" />
 
-\begin{align*}
-\overline{n}_{locations,manual} = 2 \pm 1\ days\tag{19} 
-\end{align*}
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{locations,manual}&space;=&space;2&space;\pm&space;1\&space;days\qquad\qquad&space;{(19)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{locations,manual} = 2 \pm 1\ days\qquad\qquad {(19)} \end{align*}" />
 
 Finally, **_AI_** established claims contain fewer claimant contentions at submission:
 
