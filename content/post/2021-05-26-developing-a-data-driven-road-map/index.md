@@ -90,8 +90,8 @@ Next, we present the results of the contentions, flashes and special issues effi
 
 The contentions efficiencies of both the **_AI_** process (Equation 4) and manual method (Equation 5) are similar, with the manual method efficiency slightly being more variable. The efficiencies of the flash process are also similar for the **_AI_** and manual establishment methods as shown below:
 
-<p align="center">
-<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{flashes,ai}\quad\&space;=&space;0.84&space;\pm&space;0.20\qquad{(6)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{flashes,ai}\quad\ = 0.84 \pm 0.20\qquad{(6)} \end{align*}" />
+<p align="right">
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{flashes,ai}&space;=&space;0.84&space;\pm&space;0.20\qquad{(6)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{flashes,ai}\quad\ = 0.84 \pm 0.20\qquad{(6)} \end{align*}" />
 </p>
 <p align="center">
 <img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{flashes,manual}&space;=&space;0.84&space;\pm&space;0.20\qquad{(7)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{flashes,manual} = 0.84 \pm 0.20\qquad{(7)} \end{align*}" />
@@ -99,10 +99,10 @@ The contentions efficiencies of both the **_AI_** process (Equation 4) and manua
 
 The special issues efficiency of the AI established claims is noticeably higher than that of manually established claims as shown below:
 
-<p align="center">
+<p align="right">
 <img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{special&space;\&space;issues,ai}\quad\&space;=&space;0.42&space;\pm&space;0.20\qquad\&space;{(8)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{special \ issues,ai}\quad\ = 0.42 \pm 0.20\qquad\ {(8)} \end{align*}" />
 </p>
-<p align="center">
+<p align="right">
 <img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{special&space;\&space;issues,manual}&space;=&space;0.33&space;\pm&space;0.23&space;\qquad&space;{(9)}&space;\end{align*}&space;" title="\begin{align*} \overline{\eta}_{special \ issues,manual} = 0.33 \pm 0.23 \qquad {(9)} \end{align*} " />
 </p>
 
