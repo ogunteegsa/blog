@@ -243,7 +243,7 @@ _Process Action_                                                     |*Potential
 <img src="https://latex.codecogs.com/svg.image?Increase&space;\&space;\eta_{contentions&space;\&space;manual}" title="Increase \ \eta_{contentions \ manual}" />                             | *1*
 <img src="https://latex.codecogs.com/svg.image?Increase\&space;\eta_{flashes&space;\&space;manual}" title="Increase\ \eta_{flashes \ manual}" />                                 | *0*
 ### Table 1.0: Potential Savings in days.
-
+ 
 ***
 
 ## Conclusions and Recommendations
