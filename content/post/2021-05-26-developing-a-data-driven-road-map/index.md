@@ -203,10 +203,10 @@ The results show that improving the current efficiencies of the contentions and 
 
 _Process Action_                                                     |*Potential Decrease in Processing Time(days)*
 :--------------------------------------------------------------------|:----------------------------------------------------------------------:
-_Decrease_ <img src="https://latex.codecogs.com/svg.image?t_{flashes,manual}" title="t_{flashes,manual}" />                                    | *32*
-_Decrease_ <img src="https://latex.codecogs.com/svg.image?t_{special\&space;issues,manual}" title="t_{special\ issues,manual}" />                           | *27*
-_Increase_ <img src="https://latex.codecogs.com/svg.image?\eta_{special\&space;issues,manual}" title="\eta_{special\ issues,manual}" />                         | *16*
-_Decrease_ <img src="https://latex.codecogs.com/svg.image?Decrease&space;\&space;t_{contention\&space;manual}&space;" title="Decrease \ t_{contention\ manual} " />                                | *13*
+<img src="https://latex.codecogs.com/svg.image?Decrease&space;\&space;t_{flashes,manual}" title="Decrease \ t_{flashes,manual}" />                                    | *32*
+<img src="https://latex.codecogs.com/svg.image?Decrease&space;\&space;t_{special\&space;issues,manual}" title="Decrease\ t_{special\ issues,manual}" />                           | *27*
+<img src="https://latex.codecogs.com/svg.image?Increase\&space;\eta_{special\&space;issues,manual}" title="Increase\ \eta_{special\ issues,manual}" />                         | *16*
+<img src="https://latex.codecogs.com/svg.image?Decrease&space;\&space;t_{contention\&space;manual}&space;" title="Decrease \ t_{contention\ manual} " />                                | *13*
 <img src="https://latex.codecogs.com/svg.image?Decrease&space;\&space;n_{locations\&space;manual}&space;" title="Decrease \ n_{locations\ manual} " />                                  | *5*
 <img src="https://latex.codecogs.com/svg.image?Decrease&space;\&space;t_{established&space;\&space;manual}" title="t_{established \ manual}" />                                | *3*
   <img src="https://latex.codecogs.com/svg.image?Decrease&space;\&space;n_{adjudicators&space;\&space;manual}&space;" title="Decrease \ n_{adjudicators \ manual} " />                            | *2*
