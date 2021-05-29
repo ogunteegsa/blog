@@ -3,10 +3,14 @@
 #### _Babatunde Oguntade, Paul Shute_
 
 ***
-
+<p align="justify">
 Healthcare is complex — just like humans. It makes sense: The care needed to ensure the health and wellbeing of people is as unique as the individual receiving care. Today, smart, compassionate healthcare has never been more important. Across the federal government, we are combatting the COVID-19 pandemic and addressing health inequities.
+</p>
 
-Great healthcare happens through everyday innovation. That’s why [I became a Presidential Innovation Fellow](https://presidentialinnovationfellows.gov/fellows/babatunde-oguntade/): to help relieve the burden of care through smart tools and compassionate people. My expertise is in process engineering and machine learning, and my passion is using mathematical models to improve performance, efficiency, and safety. This blog shares a deep dive into the small wins that help advance great healthcare. In this case, U.S. Department of Veterans Affairs (VA) Chief of Operational Innovation Paul Shute and I explore how to develop a data-driven roadmap for health benefits claims processing.
+
+<p align="justify">
+Great healthcare happens through everyday innovation. That’s why <a href = "https://presidentialinnovationfellows.gov/fellows/babatunde-oguntade">I became a Presidential Innovation Fellow</a>: to help relieve the burden of care through smart tools and compassionate people. My expertise is in process engineering and machine learning, and my passion is using mathematical models to improve performance, efficiency, and safety. This blog shares a deep dive into the small wins that help advance great healthcare. In this case, U.S. Department of Veterans Affairs (VA) Chief of Operational Innovation Paul Shute and I explore how to develop a data-driven roadmap for health benefits claims processing.
+</p>
 
 ***
 
