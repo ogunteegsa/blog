@@ -162,11 +162,11 @@ Here we discuss the deductions made using the average measures for the manual pr
 
 #### _Intake Process_
 
-Decreasing the number of days until a claim is established  `$t_{established,manual}$`, by 1 day and keeping all the other variables constant decreases the overall processing time by 0.70 days. It currently takes about 3.8 days to establish a claim according to Equation 3 which implies the total amount of time savings we can get from instantaneously establishing claims is 2.6 days.
+Decreasing the number of days until a claim is established  <img src="https://latex.codecogs.com/svg.image?t_{established,manual}" title="t_{established,manual}" />, by 1 day and keeping all the other variables constant decreases the overall processing time by 0.70 days. It currently takes about 3.8 days to establish a claim according to Equation 3 which implies the total amount of time savings we can get from instantaneously establishing claims is 2.6 days.
 
 #### _Contentions_
 
-Decreasing the number of days until the last contention is added, `$t_{contentions,manual}$`, by 1 day and keeping all else constant, decreases the overall processing time by 0.24 day. Equation 11 suggests we can save 13 days if all the contentions are added on receipt since it currently takes an average of 55 days until the last contention is added. 
+Decreasing the number of days until the last contention is added, <img src="https://latex.codecogs.com/svg.image?t_{contentions,manual}" title="t_{contentions,manual}" />, by 1 day and keeping all else constant, decreases the overall processing time by 0.24 day. Equation 11 suggests we can save 13 days if all the contentions are added on receipt since it currently takes an average of 55 days until the last contention is added. 
 
 Increasing the efficiency of the contentions process, `$\eta_{contentions,manual}$`, by 1% decreases the overall processing by 0.05 day. Equation 5 shows that we can get an uplift of 0.8 days by improving the efficiency of the contentions process to unity.
 
