@@ -84,12 +84,10 @@ Next, we present the results of the contentions, flashes and special issues effi
 
 The contentions efficiencies of both the **_AI_** process (Equation 4) and manual method (Equation 5) are similar, with the manual method efficiency slightly being more variable. The efficiencies of the flash process are also similar for the **_AI_** and manual establishment methods as shown below:
 
-\begin{align*}
-\overline{\eta}_{flashes,ai}\quad\ = 0.84 \pm 0.20\tag{6} 
-\end{align*}
+\begin{align*} \overline{\eta}_{flashes,ai}\quad\ = 0.84 \pm 0.20\qquad{(6)} \end{align*}
 
 \begin{align*}
-\overline{\eta}_{flashes,manual} = 0.84 \pm 0.20\tag{7} 
+\overline{\eta}_{flashes,manual} = 0.84 \pm 0.20\qquad{(7)} 
 \end{align*}
 
 The special issues efficiency of the AI established claims is noticeably higher than that of manually established claims as shown below:
