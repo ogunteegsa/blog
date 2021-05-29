@@ -220,7 +220,7 @@ _Process Action_                                                     |*Potential
 
 Over 50 percent of the disability claims processed at VA are “**_subsequent_**” claims – EP 020, based on 2020 data. This means that prior EP details already exist in **_VBMS_**, suggesting these claims could be processed on receipt without asking Veterans for information we already have.  VA has limited ability to make Veterans submit documents on time, thus making the option of extracting data from **_VBMS_** and/or other accessible databases attractive. 
 
-Special Issues efficiency, `$\eta_{special\;issues,manual}$`, is very low at the moment and tighter definitions are needed for it. 
+Special Issues efficiency, <img src="https://latex.codecogs.com/svg.image?\eta_{special\&space;issues,manual}" title="\eta_{special\ issues,manual}" />, is very low at the moment and tighter definitions are needed for it. 
 
 Our analysis revealed that piecewise **_AI_** solutions could have “**_unintended_**” overall consequences. Although the **_CAAPIv1.0/BCAPI_** helps us to establish claims quicker than the manual establishment process, these claims end up having longer processing times, about 5 – 7 days to be precise because of possible operational inefficiencies. The new iteration of the API, **_CAAPIv2.0/BCAPI_** will add initial flashes and special issues at the point of establishment and may speed up the processing times of claims established through it. 
 
