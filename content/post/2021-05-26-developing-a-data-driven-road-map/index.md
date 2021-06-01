@@ -101,6 +101,11 @@ As mentioned earlier, the claims establishment time <img src="https://latex.code
 </p>
 
 <p align="right">
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{t}_{establishment,ai}\&space;=&space;3.59&space;\pm&space;13.40\&space;days\qquad\qquad\&space;{(2)}&space;\end{align*}" title="\begin{align*} \overline{t}_{establishment,ai}\quad\ = 3.59 \pm 13.40\ days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(2)} \end{align*}" />
+</p>
+
+
+<p align="right">
 <img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{t}_{establishment,manual}&space;=&space;3.77&space;\pm&space;12.22\&space;days\qquad\qquad\&space;{(3)}&space;\end{align*}" title="\begin{align*} \overline{t}_{establishment,manual} = 3.77 \pm 12.22\ days\qquad\qquad\qquad{(3)} \end{align*}" />
 </p>
 
