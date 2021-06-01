@@ -127,13 +127,16 @@ Next, we present the results of the contentions, flashes and special issues effi
 The contentions efficiencies of both the AI process (Equation 4) and manual method (Equation 5) are similar, with the manual method efficiency slightly being more variable. The efficiencies of the flash process are also similar for the AI and manual establishment methods as shown below:
 </p>
 
+
+
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{flashes,ai}&space;=&space;0.84&space;\pm&space;0.20\qquad{(6)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{flashes,ai}\quad\ = 0.84 \pm 0.20\qquad{(6)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{flashes,ai}&space;=&space;0.84&space;\pm&space;0.20&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(6)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{flashes,ai}\quad\ = 0.84 \pm 0.20\qquad{(6)} \end{align*}" />
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{flashes,manual}&space;=&space;0.84&space;\pm&space;0.20\qquad{(7)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{flashes,manual} = 0.84 \pm 0.20\qquad{(7)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{flashes,manual}&space;=&space;0.84&space;\pm&space;0.20&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(7)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{flashes,manual} = 0.84 \pm 0.20\qquad{(7)} \end{align*}" />
 </p>
+
 
 <p align="justify">
 The special issues efficiency of the AI established claims is noticeably higher than that of manually established claims as shown below:
