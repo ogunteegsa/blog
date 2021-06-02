@@ -193,11 +193,11 @@ Our analysis revealed that an average of 3 VSRs work on every claim regardless o
  </p>
  
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{adjudicators,ai}&space;=&space;3&space;\pm&space;1\&space;\qquad\qquad{(16)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{adjudicators,ai}\quad\ = 3 \pm 1\ \qquad\qquad{(16)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{adjudicators,ai}&space;=&space;3&space;\pm&space;1&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(16)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{adjudicators,ai}\quad\ = 3 \pm 1\ \qquad\qquad{(16)} \end{align*}" />
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{adjudicators,manual}&space;=&space;3&space;\pm&space;2\&space;\qquad\qquad&space;{(17)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{adjudicators,manual} = 3 \pm 2\ \qquad\qquad {(17)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{adjudicators,manual}&space;=&space;3&space;\pm&space;2&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(17)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{adjudicators,manual} = 3 \pm 2\ \qquad\qquad {(17)} \end{align*}" />
 </p>
 
 <p align="justify">
@@ -205,11 +205,11 @@ AI established claims were also processed at an average of 3 locations as oppose
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{locations,ai}&space;=&space;3&space;\pm&space;1\&space;\qquad\qquad{(18)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{locations,ai}\quad\ = 3 \pm 1\ \qquad\qquad{(18)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{locations,ai}&space;=&space;3&space;\pm&space;1&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(18)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{locations,ai}\quad\ = 3 \pm 1\ \qquad\qquad{(18)} \end{align*}" />
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{locations,manual}&space;=&space;2&space;\pm&space;1\&space;\qquad\qquad&space;{(19)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{locations,manual} = 2 \pm 1\ \qquad\qquad {(19)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{locations,manual}&space;=&space;2&space;\pm&space;1&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(19)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{locations,manual} = 2 \pm 1\ \qquad\qquad {(19)} \end{align*}" />
 </p>
 
 <p align="justify">
@@ -217,11 +217,11 @@ Finally, AI established claims contain fewer claimant contentions at submission:
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{contentions,ai}\&space;=&space;9&space;\pm&space;8\&space;\qquad\qquad&space;{(20)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{contentions,ai}\ = 9 \pm 8\ \qquad\qquad {(20)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{contentions,ai}\&space;=&space;9&space;\pm&space;8&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(20)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{contentions,ai}\ = 9 \pm 8\ \qquad\qquad {(20)} \end{align*}" />
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{contentions,manual}&space;=&space;11&space;\pm&space;13\&space;\qquad\qquad&space;{(21)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{contentions,manual} = 11 \pm 13\ \qquad\qquad {(21)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{contentions,manual}&space;=&space;11&space;\pm&space;13&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(21)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{contentions,manual} = 11 \pm 13\ \qquad\qquad {(21)} \end{align*}" />
 </p>
 
 <p align="justify">
