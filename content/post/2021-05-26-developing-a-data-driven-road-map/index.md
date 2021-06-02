@@ -229,11 +229,11 @@ We also estimated the time it took to close a claim once a ratings decision has 
 </p>
  
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{ratings,ai}&space;=&space;0.57&space;\pm&space;3.02\&space;\qquad\qquad&space;{(22)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{ratings,ai}\quad\ = 0.57 \pm 3.02\ \qquad\qquad {(22)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{ratings,ai}&space;=&space;0.57&space;\pm&space;3.02\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(22)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{ratings,ai}\quad\ = 0.57 \pm 3.02\ \qquad\qquad {(22)} \end{align*}" />
  </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{ratings,manual}&space;=&space;0.57&space;\pm&space;3.30\&space;\qquad\qquad{(23)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{ratings,manual} = 0.57 \pm 3.30\ \qquad\qquad{(23)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{ratings,manual}&space;=&space;0.57&space;\pm&space;3.30\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(23)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{ratings,manual} = 0.57 \pm 3.30\ \qquad\qquad{(23)} \end{align*}" />
  </p>
 
 ***
