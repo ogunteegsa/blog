@@ -157,7 +157,7 @@ While the process efficiencies of the AI established claims are slightly better 
  </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}&space;\overline{t}_{contentions,ai}&space;=&space;62&space;\pm&space;68\&space;days&space;\qquad{(10)}&space;\end{align*}" title="\inline \begin{align*} \overline{t}_{contentions,ai}\quad\ = 62 \pm 68\ days \qquad{(10)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}&space;\overline{t}_{contentions,ai}&space;=&space;62&space;\pm&space;68\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(10)}&space;\end{align*}" title="\inline \begin{align*} \overline{t}_{contentions,ai}\quad\ = 62 \pm 68\ days \qquad{(10)} \end{align*}" />
 </p>
 
 <p align="right">
