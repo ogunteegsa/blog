@@ -175,11 +175,11 @@ While the process efficiencies of the AI established claims are slightly better 
 
 ***
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{special&space;\&space;issues,ai}&space;=&space;59&space;\pm&space;67\&space;days\qquad\qquad{(14)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{special \ issues,ai}\quad\ = 59 \pm 67\ days\qquad\qquad{(14)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{special&space;\&space;issues,ai}&space;=&space;59&space;\pm&space;67\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(14)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{special \ issues,ai}\quad\ = 59 \pm 67\ days\qquad\qquad{(14)} \end{align*}" />
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{special&space;\&space;issues,manual}&space;=&space;53&space;\pm&space;66\&space;days\qquad\qquad&space;{(15)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{special \ issues,manual} = 53 \pm 66\ days\qquad\qquad {(15)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{special&space;\&space;issues,manual}&space;=&space;53&space;\pm&space;66\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(15)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{special \ issues,manual} = 53 \pm 66\ days\qquad\qquad {(15)} \end{align*}" />
 </p>
 
 <p align="justify">
