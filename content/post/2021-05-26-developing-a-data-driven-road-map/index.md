@@ -348,7 +348,7 @@ Special Issues efficiency, <img src="https://latex.codecogs.com/svg.image?\eta_{
 </p>
 
 <p align="justify">
- Our analysis revealed that piecewise AI solutions could have <b><em>unintended</em></b> overall consequences. Although the CAAPIv1.0/BCAPI helps us to establish claims quicker than the manual establishment process, these claims end up having longer processing times, about 5 – 7 days to be precise because of possible operational inefficiencies. The new iteration of the API, CAAPIv2.0/BCAPI will add initial flashes and special issues at the point of establishment and may speed up the processing times of claims established through it. 
+ Our analysis revealed that piecewise AI solutions could have <b><em>unintended</em></b> overall consequences. Although the CAAPIv1.0/BCAPI helps us to establish claims quicker than the manual establishment process, these claims end up having longer processing times, 5.2 days to be precise because of possible operational inefficiencies. The new iteration of the API, CAAPIv2.0/BCAPI will add initial flashes and special issues at the point of establishment and may speed up the processing times of claims established through it. 
 </p>
 
 <p align="justify">
