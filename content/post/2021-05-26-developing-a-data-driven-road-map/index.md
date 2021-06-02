@@ -4,7 +4,7 @@
 
 ***
 <p align="justify">
-Healthcare is complex — just like humans. It makes sense: The care needed to ensure the health and wellbeing of people is as unique as the individual receiving care. Today, smart, compassionate healthcare has never been more important. Across the federal government, we are combatting the COVID-19 pandemic and addressing health inequities.
+Healthcare is complex — just like humans. The care needed to ensure the health and wellbeing of people is as unique as the individual receiving care. Today, smart, compassionate healthcare has never been more important. Across the federal government, we are combatting the COVID-19 pandemic and addressing health inequities.
 </p>
 
 
@@ -70,7 +70,7 @@ where <img src="https://latex.codecogs.com/svg.image?\inline&space;i&space;" tit
 </p>
 
 <p align="justify"> 
-The situation described above also leads to multiple VSRs in different locations working on a claim before it is concluded. To capture this, we introduced another two measures, the total number of unique VSRs or adjudicators that work on a claim  <img src="https://latex.codecogs.com/svg.image?\inline&space;n_{adjudicators}" title="\inline n_{adjudicators}" /> and the total number of unique locations where a claim was processed - <img src="https://latex.codecogs.com/svg.image?\inline&space;n_{locations}" title="\inline n_{locations}" />. Finally, we introduce the <img src="https://latex.codecogs.com/svg.image?\inline&space;n_{contentions}" title="\inline n_{contentions}" /> which measures the number of unique claimant contentions at submission.  Submissions with a lot of contentions would likely be more complicated than the ones with fewer contentions. Utilizing the huge dataset available to us, we proceeded to determine these metrics for claims established using manual methods and the AI based CAAPIv1.0/BCAPI. 
+The situation described above also leads to multiple VSRs in different locations working on a claim before it is concluded. To capture this, we introduced two other measures, the total number of unique VSRs or adjudicators that work on a claim  <img src="https://latex.codecogs.com/svg.image?\inline&space;n_{adjudicators}" title="\inline n_{adjudicators}" /> and the total number of unique locations where a claim was processed - <img src="https://latex.codecogs.com/svg.image?\inline&space;n_{locations}" title="\inline n_{locations}" />. Finally, we introduce the <img src="https://latex.codecogs.com/svg.image?\inline&space;n_{contentions}" title="\inline n_{contentions}" /> which measures the number of unique claimant contentions at submission.  Submissions with a lot of contentions would likely be more complicated than the ones with fewer contentions. Utilizing the huge dataset available to us, we proceeded to determine these metrics for claims established using manual methods and the AI based CAAPIv1.0/BCAPI. 
 </p>
 
 ***
