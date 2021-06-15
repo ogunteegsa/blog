@@ -26,13 +26,18 @@ VA offers tax-free monthly payments to Veterans who get injured during service o
  
 <p align="justify"> 
 This blog presents the results of a big data analysis on the trajectory of a claim from “inception to the completion”, using disability claims data from January 2020 through January 2021. The data from this period contained about 100 million unique records and over 30 unique fields. Our analysis includes: 
-
-+ Developing a simple linear phenomenological model that explained over 92% of variance in the observed processing time,<img src="https://latex.codecogs.com/svg.image?t_{processing}" title="t_{processing}" /> , thus enabling us to determine the contributions of the different process elements; 
-
-+ Ranking the different process elements by importance to determine what would lead to the greatest decrease in processing time; 
-and
-+ Proposing solutions to address the problems. 
  </p>
+
+ 
+
+- Developing a simple linear phenomenological model that explained over 92% of variance in the observed processing time,<img src="https://latex.codecogs.com/svg.image?t_{processing}" title="t_{processing}" /> , thus enabling us to determine the contributions of the different process elements;
+
+
+- Ranking the different process elements by importance to determine what would lead to the greatest decrease in processing time; and
+
+- Proposing solutions to address the problems.
+
+ 
  
 ***
 
@@ -41,9 +46,12 @@ and
 <p align="justify"> 
 When VA receives a disability claim, an end product is created directly in the <b><em>Veteran Benefits Management System (VBMS)</em></b> for manual establishment, or through the <b><em>Corporate Database</em></b> and read by VBMS otherwise. <b><em>The end product (EP) system</em></b> is the primary workload monitoring attribute for Veterans Service Centers. The end product creation involves three major steps, which we describe as the <b><em>Contention, Flash and Special Issues</em></b> processes:
 
-+ **Contention**: The contention process involves translating the conditions or issues raised by the Veteran into VA parlance. Example: A Veteran may have “ringing in the ear” as a contention, which must be translated to “tinnitus” during the contention process.
-+ **Flash**: The flash process is initially a tagging step that allows claimant-specific details to be added to a claim to ensure proper routing.  Subsequently, evidence-based details are added as flash as more information is gathered on the claim. Example: A common initial flash used in the routing of claims is “Homelessness.” Veterans who indicate they are homeless on their application are prioritized in claims processing.
-+ **Special Issues**: The special issues process is similar to the flash process but the tag involved here is claim-specific. Example: Agent Orange-Vietnam is associated with claims where Veterans contend they were exposed to Agent Orange during their service in Vietnam. 
+- **Contention**: The contention process involves translating the conditions or issues raised by the Veteran into VA parlance. Example: A Veteran may have “ringing in the ear” as a contention, which must be translated to “tinnitus” during the contention process.
+
+- **Flash**: The flash process is initially a tagging step that allows claimant-specific details to be added to a claim to ensure proper routing.  Subsequently, evidence-based details are added as flash as more information is gathered on the claim. Example: A common initial flash used in the routing of claims is “Homelessness.” Veterans who indicate they are homeless on their application are prioritized in claims processing.
+
+- **Special Issues**: The special issues process is similar to the flash process but the tag involved here is claim-specific. Example: Agent Orange-Vietnam is associated with claims where Veterans contend they were exposed to Agent Orange during their service in Vietnam. 
+
  </p> 
  
 <p align="justify">  
@@ -62,7 +70,7 @@ Even though we do not currently measure the revolving activities around VBMS, we
  
 The first measure known as the efficiency of a process is defined as:
 <p align="right"> 
-<img src="https://latex.codecogs.com/svg.image?\begin{align*}\eta_i=\frac{number\&space;of&space;i\&space;entered&space;-&space;number&space;of\&space;i\&space;removed}{number\&space;of\&space;i\&space;entered},&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(1)}\end{align*}" title="\begin{align*}\eta_i=\frac{number\ of i\ entered - number of\ i\ removed}{number\ of\ i\ entered}, \qquad\qquad\qquad\qquad {(1)}\end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}\eta_i=\frac{number\&space;of&space;i\&space;entered&space;-&space;number&space;of\&space;i\&space;removed}{number\&space;of\&space;i\&space;entered},&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(1)}\end{align*}" title="\begin{align*}\eta_i=\frac{number\ of i\ entered - number of\ i\ removed}{number\ of\ i\ entered}, \qquad\qquad\qquad\qquad {(1)}\end{align*}" />
  </p>
 
 <p align="justify"> 
@@ -97,11 +105,11 @@ As mentioned earlier, the claims establishment time <img src="https://latex.code
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{t}_{establishment,ai}\&space;=&space;3.59&space;\pm&space;13.40\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(2)}&space;\end{align*}" title="\begin{align*} \overline{t}_{establishment,ai}\quad\ = 3.59 \pm 13.40\ days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(2)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{t}_{establishment,ai}\&space;=&space;3.59&space;\pm&space;13.40\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(2)}&space;\end{align*}" title="\begin{align*} \overline{t}_{establishment,ai}\quad\ = 3.59 \pm 13.40\ days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(2)} \end{align*}" />
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{t}_{establishment,manual}&space;=&space;3.77&space;\pm&space;12.22\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(3)}&space;\end{align*}" title="\begin{align*} \overline{t}_{establishment,manual} = 3.77 \pm 12.22\ days\qquad\qquad\qquad{(3)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{t}_{establishment,manual}&space;=&space;3.77&space;\pm&space;12.22\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(3)}&space;\end{align*}" title="\begin{align*} \overline{t}_{establishment,manual} = 3.77 \pm 12.22\ days\qquad\qquad\qquad{(3)} \end{align*}" />
 </p>
 
 <p align="justify">
@@ -115,12 +123,12 @@ Next, we present the results of the contentions, flashes and special issues effi
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\begin{align*}\quad\overline{\eta}_{contentions,ai}&space;=&space;0.83&space;\pm&space;0.31&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(4)}&space;\end{align*}" title="\begin{align*}\quad\overline{\eta}_{contentions,ai}\quad\ = \quad\0.84 \pm 0.31\quad\quad {(4)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}\quad\overline{\eta}_{contentions,ai}&space;=&space;0.83&space;\pm&space;0.31&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(4)}&space;\end{align*}" title="\begin{align*}\quad\overline{\eta}_{contentions,ai}\quad\ = \quad\0.84 \pm 0.31\quad\quad {(4)} \end{align*}" />
 </p>
 
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\begin{align*}\overline{\eta}_{contentions,manual}&space;=&space;0.81&space;\pm&space;0.41&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(5)}&space;\end{align*}" title="\begin{align*}\overline{\eta}_{contentions,manual} = 0.84 \pm 0.41 \quad {(5)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}\overline{\eta}_{contentions,manual}&space;=&space;0.81&space;\pm&space;0.41&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(5)}&space;\end{align*}" title="\begin{align*}\overline{\eta}_{contentions,manual} = 0.84 \pm 0.41 \quad {(5)} \end{align*}" />
 </p>
 
 <p align="justify">
@@ -130,11 +138,11 @@ The contentions efficiencies of both the AI process (Equation 4) and manual meth
 
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{flashes,ai}&space;=&space;0.81&space;\pm&space;0.20&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(6)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{flashes,ai}\quad\ = 0.84 \pm 0.20\qquad{(6)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{flashes,ai}&space;=&space;0.81&space;\pm&space;0.20&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(6)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{flashes,ai}\quad\ = 0.84 \pm 0.20\qquad{(6)} \end{align*}" />
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{flashes,manual}&space;=&space;0.80&space;\pm&space;0.20&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(7)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{flashes,manual} = 0.84 \pm 0.20\qquad{(7)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{flashes,manual}&space;=&space;0.80&space;\pm&space;0.20&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(7)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{flashes,manual} = 0.84 \pm 0.20\qquad{(7)} \end{align*}" />
 </p>
 
 
@@ -143,11 +151,11 @@ The special issues efficiency of the AI established claims is noticeably higher 
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{special&space;\&space;issues,ai}&space;=&space;0.42&space;\pm&space;0.20&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(8)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{special \ issues,ai}\quad\ = 0.42 \pm 0.20\qquad\ {(8)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{special&space;\&space;issues,ai}&space;=&space;0.42&space;\pm&space;0.20&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(8)}&space;\end{align*}" title="\begin{align*} \overline{\eta}_{special \ issues,ai}\quad\ = 0.42 \pm 0.20\qquad\ {(8)} \end{align*}" />
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{special&space;\&space;issues,manual}&space;=&space;0.33&space;\pm&space;0.23&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(9)}&space;\end{align*}&space;" title="\begin{align*} \overline{\eta}_{special \ issues,manual} = 0.33 \pm 0.23 \qquad {(9)} \end{align*} " />
+<img src="https://latex.codecogs.com/svg.image?\begin{align*}&space;\overline{\eta}_{special&space;\&space;issues,manual}&space;=&space;0.33&space;\pm&space;0.23&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(9)}&space;\end{align*}&space;" title="\begin{align*} \overline{\eta}_{special \ issues,manual} = 0.33 \pm 0.23 \qquad {(9)} \end{align*} " />
 </p>
 
 ### Claim Establishment Agility 
@@ -157,29 +165,29 @@ While the process efficiencies of the AI established claims are slightly better 
  </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}&space;\overline{t}_{contentions,ai}&space;=&space;62&space;\pm&space;68\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(10)}&space;\end{align*}" title="\inline \begin{align*} \overline{t}_{contentions,ai}\quad\ = 62 \pm 68\ days \qquad{(10)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}&space;\overline{t}_{contentions,ai}&space;=&space;62&space;\pm&space;68\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(10)}&space;\end{align*}" title="\inline \begin{align*} \overline{t}_{contentions,ai}\quad\ = 62 \pm 68\ days \qquad{(10)} \end{align*}" />
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{contentions,manual}&space;=&space;55&space;\pm&space;68\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(11)}\end{align*}" title="\inline \begin{align*}\overline{t}_{contentions,manual} = 55 \pm 68\ days\qquad{(11)}\end{align*}" />
-</p>
-
-***
-<p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{flashes,ai}&space;=&space;82&space;\pm&space;70\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(12)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{flashes,ai}\quad\ = 82 \pm 70\ days\qquad\qquad {(12)} \end{align*}" />
-</p>
-
-<p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{flashes,manual}&space;=&space;77&space;\pm&space;69\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(13)}\end{align*}" title="\inline \begin{align*}\overline{t}_{flashes,manual} = 77 \pm 69\ days\qquad\qquad {(13)}\end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{contentions,manual}&space;=&space;55&space;\pm&space;68\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(11)}\end{align*}" title="\inline \begin{align*}\overline{t}_{contentions,manual} = 55 \pm 68\ days\qquad{(11)}\end{align*}" />
 </p>
 
 ***
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{special&space;\&space;issues,ai}&space;=&space;59&space;\pm&space;67\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(14)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{special \ issues,ai}\quad\ = 59 \pm 67\ days\qquad\qquad{(14)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{flashes,ai}&space;=&space;82&space;\pm&space;70\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(12)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{flashes,ai}\quad\ = 82 \pm 70\ days\qquad\qquad {(12)} \end{align*}" />
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{special&space;\&space;issues,manual}&space;=&space;53&space;\pm&space;66\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(15)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{special \ issues,manual} = 53 \pm 66\ days\qquad\qquad {(15)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{flashes,manual}&space;=&space;77&space;\pm&space;69\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(13)}\end{align*}" title="\inline \begin{align*}\overline{t}_{flashes,manual} = 77 \pm 69\ days\qquad\qquad {(13)}\end{align*}" />
+</p>
+
+***
+<p align="right">
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{special&space;\&space;issues,ai}&space;=&space;59&space;\pm&space;67\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(14)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{special \ issues,ai}\quad\ = 59 \pm 67\ days\qquad\qquad{(14)} \end{align*}" />
+</p>
+
+<p align="right">
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{special&space;\&space;issues,manual}&space;=&space;53&space;\pm&space;66\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(15)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{special \ issues,manual} = 53 \pm 66\ days\qquad\qquad {(15)} \end{align*}" />
 </p>
 
 <p align="justify">
@@ -193,11 +201,11 @@ Our analysis revealed that an average of 3 VSRs work on every claim regardless o
  </p>
  
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{adjudicators,ai}&space;=&space;3&space;\pm&space;1&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(16)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{adjudicators,ai}\quad\ = 3 \pm 1\ \qquad\qquad{(16)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{adjudicators,ai}&space;=&space;3&space;\pm&space;1&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(16)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{adjudicators,ai}\quad\ = 3 \pm 1\ \qquad\qquad{(16)} \end{align*}" />
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{adjudicators,manual}&space;=&space;3&space;\pm&space;2&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(17)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{adjudicators,manual} = 3 \pm 2\ \qquad\qquad {(17)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{adjudicators,manual}&space;=&space;3&space;\pm&space;2&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(17)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{adjudicators,manual} = 3 \pm 2\ \qquad\qquad {(17)} \end{align*}" />
 </p>
 
 <p align="justify">
@@ -205,11 +213,11 @@ AI established claims were also processed at an average of 3 locations as oppose
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{locations,ai}&space;=&space;3&space;\pm&space;1&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(18)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{locations,ai}\quad\ = 3 \pm 1\ \qquad\qquad{(18)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{locations,ai}&space;=&space;3&space;\pm&space;1&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(18)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{locations,ai}\quad\ = 3 \pm 1\ \qquad\qquad{(18)} \end{align*}" />
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{locations,manual}&space;=&space;2&space;\pm&space;1&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(19)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{locations,manual} = 2 \pm 1\ \qquad\qquad {(19)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{locations,manual}&space;=&space;2&space;\pm&space;1&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(19)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{locations,manual} = 2 \pm 1\ \qquad\qquad {(19)} \end{align*}" />
 </p>
 
 <p align="justify">
@@ -217,11 +225,11 @@ Finally, AI established claims contain fewer claimant contentions at submission:
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{contentions,ai}\&space;=&space;9&space;\pm&space;8&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(20)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{contentions,ai}\ = 9 \pm 8\ \qquad\qquad {(20)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{contentions,ai}\&space;=&space;9&space;\pm&space;8&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(20)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{contentions,ai}\ = 9 \pm 8\ \qquad\qquad {(20)} \end{align*}" />
 </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{contentions,manual}&space;=&space;11&space;\pm&space;13&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(21)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{contentions,manual} = 11 \pm 13\ \qquad\qquad {(21)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{n}_{contentions,manual}&space;=&space;11&space;\pm&space;13&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(21)}&space;\end{align*}" title="\inline \begin{align*}\overline{n}_{contentions,manual} = 11 \pm 13\ \qquad\qquad {(21)} \end{align*}" />
 </p>
 
 <p align="justify">
@@ -229,11 +237,11 @@ We also estimated the time it took to close a claim once a ratings decision has 
 </p>
  
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{ratings,ai}&space;=&space;0.57&space;\pm&space;3.02\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(22)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{ratings,ai}\quad\ = 0.57 \pm 3.02\ \qquad\qquad {(22)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{ratings,ai}&space;=&space;0.57&space;\pm&space;3.02\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(22)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{ratings,ai}\quad\ = 0.57 \pm 3.02\ \qquad\qquad {(22)} \end{align*}" />
  </p>
 
 <p align="right">
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{ratings,manual}&space;=&space;0.57&space;\pm&space;3.30\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(23)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{ratings,manual} = 0.57 \pm 3.30\ \qquad\qquad{(23)} \end{align*}" />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\begin{align*}\overline{t}_{ratings,manual}&space;=&space;0.57&space;\pm&space;3.30\&space;days&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;\qquad&space;{(23)}&space;\end{align*}" title="\inline \begin{align*}\overline{t}_{ratings,manual} = 0.57 \pm 3.30\ \qquad\qquad{(23)} \end{align*}" />
  </p>
 
 ***
